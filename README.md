@@ -5,8 +5,10 @@ This is an updated version password manager application built using Python and T
 
 - **Password Generator**: Generates random, strong passwords with a combination of letters, numbers, and symbols.
 - **Save Credentials**: Saves website name, email/username, and password to a JSON file.
-- **Find Credentials**: Searches for saved login details for a website.
 - **Clipboard Copy**: Automatically copies the generated password to the clipboard.
+
+## New Feature
+- **Find Credentials**: Searches for saved login details for a website, using search button.
 
 ## Installation
 
